@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimatedClockTextView">
+        <attr name="hour" format="integer" />
+        <attr name="minutes" format="integer" />
+        <attr name="duration" format="integer" />
+    </declare-styleable>
+</resources>

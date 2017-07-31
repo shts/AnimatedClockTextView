@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CountAnimation.iml" filepath="$PROJECT_DIR$/CountAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnimatedClockTextView.iml" filepath="$PROJECT_DIR$/AnimatedClockTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animatedclocktext/animatedclocktext.iml" filepath="$PROJECT_DIR$/animatedclocktext/animatedclocktext.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
